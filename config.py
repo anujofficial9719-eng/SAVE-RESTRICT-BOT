@@ -14,9 +14,9 @@ import os
 # Telegram Bot Credentials
 # ==============================
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-API_ID = int(os.environ.get("API_ID", "0"))
-API_HASH = os.environ.get("API_HASH", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8599079444:AAFEyAwJWKPhSHD7CtthDpA_WdvPsEzd_qg")
+API_ID = int(os.environ.get("API_ID", "34724970"))
+API_HASH = os.environ.get("API_HASH", "f240eae7c60e8e30c17203ab0e052f7e")
 
 
 # ==============================
@@ -24,14 +24,14 @@ API_HASH = os.environ.get("API_HASH", "")
 # ==============================
 
 # Add admin user IDs separated by commas in environment variables
-ADMINS = [int(admin) for admin in os.environ.get("ADMINS", "").split(",") if admin]
+ADMINS = [int(admin) for admin in os.environ.get("ADMINS", "7521421400").split(",") if admin]
 
 
 # ==============================
 # Database Configuration
 # ==============================
 
-DB_URI = os.environ.get("DB_URI", "")
+DB_URI = os.environ.get("DB_URI", "mongodb+srv://Anujofficial:Anujofficial@cluster0.ab123.mongodb.net/mydatabase?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "SaveRestricted2")
 
 
@@ -40,7 +40,7 @@ DB_NAME = os.environ.get("DB_NAME", "SaveRestricted2")
 # ==============================
 
 # Replace with your Telegram log channel ID (example: -1001234567890)
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "0"))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003793547457"))
 
 
 # ==============================
