@@ -20,8 +20,8 @@ import math
 from logger import LOGGER
 logger = LOGGER(__name__)
 SUBSCRIPTION = os.environ.get('SUBSCRIPTION', 'https://i.ibb.co/VWZ0RPxX/x.jpg')
-FREE_LIMIT_SIZE = 10000 * 1024 * 1024 * 1024
-FREE_LIMIT_DAILY = 10000
+FREE_LIMIT_SIZE = 02 * 1024 * 1024 * 1024
+FREE_LIMIT_DAILY = 100
 UPI_ID = os.environ.get("UPI_ID", "971916880@ybl")
 QR_CODE = os.environ.get("QR_CODE", "https://i.ibb.co/VWZ0RPxX/x.jpg")
 REACTIONS = [
