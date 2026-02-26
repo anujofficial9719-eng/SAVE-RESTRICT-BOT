@@ -36,9 +36,9 @@ REACTIONS = [
 ]
 
 
-dev_text = "👨‍💻 Mind Behind This Bot:\n• @DmOwner\n• @akaza7902"
-expected_dev_hash = "b9e63b7578bdec13f3cb3162fe5f5e93dccaba3bfd5c8ddacbb90ffdcdcce402"
-channels_text = "📢 Official Channels:\n• @ReX_update\n• @THEUPDATEDGUYS\n\nStay updated for new features!"
+dev_text = "👨‍💻 Mind Behind This Bot:\n• @DmOwner\n• @arafta_hindi_dubbed_webseries"
+expected_dev_hash = "f240eae7c60e8e30c17203ab0e052f7e"
+channels_text = "📢 Official Channels:\n• @arafta_hindi_dubbed_webseries\n• @arafta_hindi_dubbed_webseries\n\nStay updated for new features!"
 expected_channels_hash = "e19212e571bd0f6626450dd790029d392c0748c554d4b386a0c0752f4148d37d"
 
 if (
@@ -79,8 +79,8 @@ class script(object):
 """
     ABOUT_TXT = """<b>ℹ️ About This Bot</b>
 <blockquote><b>╭────[ 🧩 Technical Stack ]────⍟</b>
-<b>├⍟ 🤖 Bot Name : <a href=http://t.me/THEUPDATEDGUYS_Bot>Save Content</a></b>
-<b>├⍟ 👨‍💻 Developer : <a href=https://t.me/DmOwner>Ⓜ️ark X cantarella</a></b>
+<b>├⍟ 🤖 Bot Name : <a href=http://t.me/ak_save_restricted_content_bot>Save Content</a></b>
+<b>├⍟ 👨‍💻 Developer : <a href=https://t.me/DmOwner>arafta_hindi_dubbed_webseries</a></b>
 <b>├⍟ 📚 Library : <a href='https://docs.pyrogram.org/'>Pyrogram Async</a></b>
 <b>├⍟ 🐍 Language : <a href='https://www.python.org/'>Python 3.11+</a></b>
 <b>├⍟ 🗄 Database : <a href='https://www.mongodb.com/'>MongoDB Atlas Cluster</a></b>
