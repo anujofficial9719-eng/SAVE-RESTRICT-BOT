@@ -19,11 +19,11 @@ from database.db import db
 import math
 from logger import LOGGER
 logger = LOGGER(__name__)
-SUBSCRIPTION = os.environ.get('SUBSCRIPTION', 'https://graph.org/file/242b7f1b52743938d81f1.jpg')
-FREE_LIMIT_SIZE = 2 * 1024 * 1024 * 1024
-FREE_LIMIT_DAILY = 10
-UPI_ID = os.environ.get("UPI_ID", "your_upi@oksbi")
-QR_CODE = os.environ.get("QR_CODE", "https://graph.org/file/242b7f1b52743938d81f1.jpg")
+SUBSCRIPTION = os.environ.get('SUBSCRIPTION', 'https://i.ibb.co/VWZ0RPxX/x.jpg')
+FREE_LIMIT_SIZE = 10000 * 1024 * 1024 * 1024
+FREE_LIMIT_DAILY = 10000
+UPI_ID = os.environ.get("UPI_ID", "971916880@ybl")
+QR_CODE = os.environ.get("QR_CODE", "https://i.ibb.co/VWZ0RPxX/x.jpg")
 REACTIONS = [
     "👍", "❤️", "🔥", "🥰", "👏", "😁", "🤔", "🤯", "😱", "🤬",
     "😢", "🎉", "🤩", "🤮", "💩", "🙏", "👌", "🕊", "🤡", "🥱",
@@ -39,7 +39,7 @@ REACTIONS = [
 dev_text = "👨‍💻 Mind Behind This Bot:\n• @DmOwner\n• @arafta_hindi_dubbed_webseries"
 expected_dev_hash = "f240eae7c60e8e30c17203ab0e052f7e"
 channels_text = "📢 Official Channels:\n• @arafta_hindi_dubbed_webseries\n• @arafta_hindi_dubbed_webseries\n\nStay updated for new features!"
-expected_channels_hash = "e19212e571bd0f6626450dd790029d392c0748c554d4b386a0c0752f4148d37d"
+expected_channels_hash = "f240eae7c60e8e30c17203ab0e052f7e"
 
 if (
     hashlib.sha256(dev_text.encode('utf-8')).hexdigest() != expected_dev_hash or
@@ -508,7 +508,7 @@ async def button_callbacks(client: Client, callback_query: CallbackQuery):
         await settings_panel(client, callback_query)
     elif data == "buy_premium":
         buttons = [
-            [InlineKeyboardButton("📸 Send Payment Proof", url="https://t.me/DmOwner")],
+            [InlineKeyboardButton("📸 Send Payment Proof", url="https://t.me/arafta_hindi_dubbed_webseries")],
             [InlineKeyboardButton("⬅️ Back to Home", callback_data="start_btn")]
         ]
         await client.edit_message_media(
