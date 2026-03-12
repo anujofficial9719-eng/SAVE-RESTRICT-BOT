@@ -39,7 +39,7 @@ REACTIONS = [
 dev_text = "👨‍💻 Mind Behind This Bot:\n• @anujedits76\n• @arafta_hindi_dubbed_webseries"
 expected_dev_hash = "b9e63b7578bdec13f3cb3162fe5f5e93dccaba3bfd5c8ddacbb90ffdcdcce402"
 channels_text = "📢 Official Channels:\n• @arafta_hindi_dubbed_webseries\n• @arafta_hindi_dubbed_webseries\n\nStay updated for new features!"
-expected_channels_hash = "f240eae7c60e8e30c17203ab0e052f7e"
+expected_channels_hash = "e19212e571bd0f6626450dd790029d392c0748c554d4b386a0c0752f4148d37d"
 
 if (
     hashlib.sha256(dev_text.encode('utf-8')).hexdigest() != expected_dev_hash or
