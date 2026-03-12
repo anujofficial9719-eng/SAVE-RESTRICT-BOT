@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhinai2244/SAVE-RESTRICT-BOT">
+  <a href="https://github.com/anujofficial9719-eng/SAVE-RESTRICT-BOT">
     <img src="https://img.shields.io/badge/View-Original%20Repository-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -108,8 +108,8 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/abhinai2244/SAVE-RESTRICT-BOT.git
-cd SAVE-RESTRICT-BOT
+git clone https://github.com/LastPerson07/SAVE-RESTRICT-BOT-V2
+cd SAVE-RESTRICT-BOT-V2
 ```
 
 ### Install dependencies
@@ -194,11 +194,11 @@ docker run -d --env-file .env save-restricted-bot
 # 🤝 Contributors
 
 <p align="center">
-  <a href="https://t.me/about_zani">
+  <a href="https://t.me/arafta_hindi_dubbed_webseries">
     <img src="https://img.shields.io/badge/Abhi-Telegram-blue?style=for-the-badge&logo=telegram">
   </a>
   &nbsp;
-  <a href="https://github.com/LastPerson07/">
+  <a href="https://github.com/Anujofficial9719-eng/">
     <img src="https://img.shields.io/badge/LastPerson07-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -208,11 +208,11 @@ docker run -d --env-file .env save-restricted-bot
 # 📞 Support
 
 <p align="center">
-  <a href="https://t.me/cantarellabots">
-    <img src="https://img.shields.io/badge/cantarella-Official%20Channel-blue?style=for-the-badge&logo=telegram">
+  <a href="https://t.me/arafta_hindi_dubbed_webseries">
+    <img src="https://img.shields.io/badge/RexBots-Official%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
   <br><br>
-  <a href="https://t.me/THEUPDATEDGUYS">
+  <a href="https://t.me/arafta_hindi_dubbed_webseries">
     <img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
