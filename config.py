@@ -40,7 +40,7 @@ DB_NAME = os.environ.get("DB_NAME", "Anujedit")
 # ==============================
 
 # Replace with your Telegram log channel ID (example: -1001234567890)
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003793547457"))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003515041061"))
 
 
 # ==============================
