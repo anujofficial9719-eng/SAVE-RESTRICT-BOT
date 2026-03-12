@@ -99,7 +99,7 @@ COMMANDS_TXT = """<b>📜 All Available Commands</b>
 </blockquote>
 
 <b>🔥 Premium = Unlimited Everything</b>
-<i>Contact @cantarellabots to upgrade!</i>
+<i>Contact @Anujedits76 to upgrade!</i>
 """
 
 # Dont remove Credits
