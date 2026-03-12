@@ -66,7 +66,7 @@ async def login_start(client: Client, message: Message):
         f"<b>👋 Hey! Let's log you in smoothly 🌟</b>\n\n"
         f"<i>Progress: {progress}</i>\n\n"
         "📞 Please send your <b>Telegram Phone Number</b> with country code.\n\n"
-        "<blockquote>Example: +919876543210</blockquote>\n\n"
+        "<blockquote>Example: +919719168804</blockquote>\n\n"
         "<i>💡 Your number is used only for verification and is kept secure. 🔒</i>\n\n"
         "❌ Tap the <b>Cancel</b> button or send /cancel to stop.",
         parse_mode=enums.ParseMode.HTML,
