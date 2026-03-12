@@ -177,7 +177,7 @@ async def login_handler(bot: Client, message: Message):
             await status_msg.edit(
                 "<b>❌ Oops! Invalid phone number format. 😅</b>\n\n"
                 f"<i>Progress: {progress}</i>\n\n"
-                "Please try again (e.g., +919876543210).",
+                "Please try again (e.g., +919719168804).",
                 parse_mode=enums.ParseMode.HTML
             )
             await temp_client.disconnect()
