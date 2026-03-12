@@ -20,7 +20,7 @@ import math
 from logger import LOGGER
 logger = LOGGER(__name__)
 SUBSCRIPTION = os.environ.get('SUBSCRIPTION', 'https://i.ibb.co/VWZ0RPxX/x.jpg')
-FREE_LIMIT_SIZE = 02 * 1024 * 1024 * 1024
+FREE_LIMIT_SIZE = 2 * 1024 * 1024 * 1024
 FREE_LIMIT_DAILY = 100
 UPI_ID = os.environ.get("UPI_ID", "971916880@ybl")
 QR_CODE = os.environ.get("QR_CODE", "https://i.ibb.co/VWZ0RPxX/x.jpg")
@@ -80,7 +80,7 @@ class script(object):
     ABOUT_TXT = """<b>ℹ️ About This Bot</b>
 <blockquote><b>╭────[ 🧩 Technical Stack ]────⍟</b>
 <b>├⍟ 🤖 Bot Name : <a href=http://t.me/ak_save_restricted_content_bot>Save Content</a></b>
-<b>├⍟ 👨‍💻 Developer : <a href=https://t.me/arafta_hindi_dubbed_webseries>arafta_hindi_dubbed_webseries</a></b>
+<b>├⍟ 👨‍💻 Developer : <a href=https://t.me/arafta_hindi_dubbed_webseries>Anuj</a></b>
 <b>├⍟ 📚 Library : <a href='https://docs.pyrogram.org/'>Pyrogram Async</a></b>
 <b>├⍟ 🐍 Language : <a href='https://www.python.org/'>Python 3.11+</a></b>
 <b>├⍟ 🗄 Database : <a href='https://www.mongodb.com/'>MongoDB Atlas Cluster</a></b>
