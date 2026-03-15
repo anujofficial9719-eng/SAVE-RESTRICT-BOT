@@ -1,8 +1,8 @@
 """
 Save Restricted Content Bot Configuration
 
-Developed by: LastPerson07Xcantarella
-Telegram: @cantarellabots X @THEUPDATEDGUYS
+Developed by: Anuj kumar
+Telegram: @anujedits76 X @Anujkumar_21
 
 Please retain this credit if you use or modify this project.
 """
