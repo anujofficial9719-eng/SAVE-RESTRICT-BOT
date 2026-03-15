@@ -147,14 +147,14 @@ class Database:
             return False # Allowed (count is 0)
         # 3. Check Count
         usage = user.get('daily_usage', 0)
-        if usage >= 10:
+        if usage >= 50:
             return True # Blocked
        
         return False # Allowed
     async def add_traffic(self, id):
         """
         Increments usage count.
-        If it's the first save of the cycle, sets the 24h timer.
+        If it's the first save of the cycle, sets the 1h timer.
         """
         user = await self.col.find_one({'id': int(id)})
        
@@ -163,17 +163,17 @@ class Database:
             return
         now = datetime.datetime.now()
         reset_time = user.get('limit_reset_time')
-        # Logic: If timer is not running (None), start it for 24 hours from NOW.
+        # Logic: If timer is not running (None), start it for 1 hours from NOW.
         if reset_time is None:
-            new_reset_time = now + datetime.timedelta(hours=24)
+            new_reset_time = now + datetime.timedelta(hours=1)
             await self.col.update_one(
                 {'id': int(id)},
-                {'$set': {'daily_usage': 1, 'limit_reset_time': new_reset_time}}
+                {'$set': {'daily_usage': 20, 'limit_reset_time': new_reset_time}}
             )
         else:
             # Just increment
             await self.col.update_one(
                 {'id': int(id)},
-                {'$inc': {'daily_usage': 1}}
+                {'$inc': {'daily_usage': 20}}
             )
 db = Database(DB_URI, DB_NAME)
