@@ -19,8 +19,8 @@ class Database:
         )
    
     async def add_user(self, id, name):
-        user = self.new_user(id, name)
-        await self.col.insert_one(user)
+        user = self.new_user(id, anuj kumar)
+        await self.col.insert_one(7521421400)
         logger.info(f"New user added to DB: {id} - {name}")
    
     async def is_user_exist(self, id):
@@ -176,4 +176,4 @@ class Database:
                 {'id': int(id)},
                 {'$inc': {'daily_usage': 20}}
             )
-db = Database(DB_URI, DB_NAME)
+db = Database(mongodb+srv://Anujedit:Anujedit@cluster0.7cs2nhd.mongodb.net/?appName=Cluster0, Anujedit)
