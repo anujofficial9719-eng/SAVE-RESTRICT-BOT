@@ -1,8 +1,8 @@
-# cantarella
+# Anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
 
-HELP_TXT = """<b>🚀 Welcome to cantarella Save Restricted Bot - Complete Guide</b>
+HELP_TXT = """<b>🚀 Welcome to Anuj Save Restricted Bot - Complete Guide</b>
 
 <b>👋 How to Use Me</b>
 <blockquote expandable>
@@ -19,7 +19,7 @@ HELP_TXT = """<b>🚀 Welcome to cantarella Save Restricted Bot - Complete Guide
 • Custom captions with {filename} & {size} placeholders
 • Custom thumbnails
 • Auto-forward to your dump chat
-• Daily token system (10 saves/day for free users)
+• Daily token system (100 saves/day for free users)
 • Premium = unlimited everything ♾️
 </blockquote>
 
@@ -50,11 +50,11 @@ HELP_TXT = """<b>🚀 Welcome to cantarella Save Restricted Bot - Complete Guide
 <blockquote><b>/thumb_mode</b> — Check thumbnail status</blockquote>
 
 <b>💡 Tips</b>
-• Free users: 10 saves/day + 5 files per batch
+• Free users: 100 saves/day + 5 files per batch
 • Premium users: Unlimited saves & batch size
-• Contact @cantarellabots for support or premium purchase
+• Contact @anujedits76 for support or premium purchase
 
-<b>Thank you for using cantarella! ❤️</b>
+<b>Thank you for using anuj kumar! ❤️</b>
 """
 
 COMMANDS_TXT = """<b>📜 All Available Commands</b>
@@ -103,9 +103,9 @@ COMMANDS_TXT = """<b>📜 All Available Commands</b>
 """
 
 # Dont remove Credits
-# Developer Telegram @about_zani/143
-# Update channel - @cantarellabots
+# Developer Telegram @anujedits76
+# Update channel - @Anujkumar_21
 
-# cantarella
+# anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
