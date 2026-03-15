@@ -1,14 +1,14 @@
-# cantarella
+# anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
 
 
-# cantarella
+# anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
 
 #from database.DB import db
 
-# cantarella
+# anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
