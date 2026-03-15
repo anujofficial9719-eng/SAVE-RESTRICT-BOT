@@ -1,6 +1,6 @@
-# cantarella
+# anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
 
 
 
@@ -81,9 +81,9 @@ async def broadcast_command(bot: Client, message: Message):
                 elif sh == "Error":
                     failed += 1
             done += 1
-# cantarella
+# anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
 
             if done % 20 == 0:
                 await sts.edit(
@@ -166,9 +166,9 @@ async def users_count(bot: Client, message: Message):
 
 
 # Credits
-# Developer Telegram: @cantarellabots
-# Update channel: @cantarellabots
+# Developer Telegram: @anujedits76
+# Update channel: @anujedits76
 
-# cantarella
+# anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
