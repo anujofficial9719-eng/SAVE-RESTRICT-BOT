@@ -1,6 +1,6 @@
 # cantarella
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -28,9 +28,9 @@ async def unban(client: Client, message: Message):
         await message.reply_text(f"**User {user_id} Unbanned Successfully ✅**")
     except:
         await message.reply_text("Error unbanning user.")
-# cantarella
+# Anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
 
 @Client.on_message(filters.command("set_dump") & filters.user(ADMINS))
 async def set_dump(client: Client, message: Message):
@@ -52,6 +52,6 @@ async def dblink(client: Client, message: Message):
 async def manage_force_subscribe(client: Client, message: Message):
     await message.reply_text("Force Subscribe management feature is coming soon.")
 
-# cantarella
+# Anuj kumar
 # Don't Remove Credit
-# Telegram Channel @cantarellabots
+# Telegram Channel @anujedits76
