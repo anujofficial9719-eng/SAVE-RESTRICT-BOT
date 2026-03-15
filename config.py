@@ -23,7 +23,7 @@ API_HASH = os.environ.get("API_HASH", "f240eae7c60e8e30c17203ab0e052f7e")
 # Admin Configuration
 # ==============================
 
-# Add admin user IDs separated by commas in environment variables
+# Fetch ADMINS from environment variables, default to one admin if not set
 ADMINS = [int(admin) for admin in os.environ.get("ADMINS", "7521421400").split(",") if admin]
 
 
