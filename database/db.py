@@ -176,4 +176,4 @@ class Database:
                 {'id': int(id)},
                 {'$inc': {'daily_usage': 20}}
             )
-db = Database(mongodb+srv://Anujedit:Anujedit@cluster0.7cs2nhd.mongodb.net/?appName=Cluster0, Anujedit)
+db = Database(DB_URI, DB_NAME)
