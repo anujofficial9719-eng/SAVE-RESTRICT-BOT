@@ -19,8 +19,8 @@ class Database:
         )
    
     async def add_user(self, id, name):
-        user = self.new_user(id, anuj kumar)
-        await self.col.insert_one(7521421400)
+        user = self.new_user(id, name)
+        await self.col.insert_one(id)
         logger.info(f"New user added to DB: {id} - {name}")
    
     async def is_user_exist(self, id):
