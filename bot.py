@@ -34,11 +34,11 @@ LOGO = r"""
 class Bot(Client):
     def __init__(self):
         super().__init__(
-            name="cantarella_Login_Bot",
+            name="anuj_Login_Bot",
             api_id=API_ID,
             api_hash=API_HASH,
             bot_token=BOT_TOKEN,
-            plugins=dict(root="cantarella"),
+            plugins=dict(root="anuj"),
             workers=10, 
             sleep_threshold=15,
             max_concurrent_transmissions=5,
@@ -132,6 +132,7 @@ class Bot(Client):
             BotCommand("rem_del_word", "Remove delete word"),
             BotCommand("set_repl_word", "Add replace word"),
             BotCommand("rem_repl_word", "Remove replace word"),
+            BotCommand("grantpremium", "Grant premium to a user (admin only)"),
         ]
         await self.set_bot_commands(commands)
 
