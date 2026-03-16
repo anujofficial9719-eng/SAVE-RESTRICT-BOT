@@ -14,9 +14,9 @@ import os
 # Telegram Bot Credentials
 # ==============================
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8726665578:AAHLSN3AxqWoRzeSJU2oV4Bm4QPfKKSkPKo")
-API_ID = int(os.environ.get("API_ID", "34724970"))
-API_HASH = os.environ.get("API_HASH", "f240eae7c60e8e30c17203ab0e052f7e")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8770843324:AAHkflqRUjhBvcul6EnNljZfJ6d9FSzj204")
+API_ID = int(os.environ.get("API_ID", "34446649"))
+API_HASH = os.environ.get("API_HASH", "8dc570c08d8e35e88fb9bfc73c65d7fa")
 
 
 # ==============================
@@ -24,7 +24,7 @@ API_HASH = os.environ.get("API_HASH", "f240eae7c60e8e30c17203ab0e052f7e")
 # ==============================
 
 # Fetch ADMINS from environment variables, default to one admin if not set
-ADMINS = [int(admin) for admin in os.environ.get("ADMINS", "7521421400").split(",") if admin]
+ADMINS = [int(admin) for admin in os.environ.get("ADMINS", "7892805795").split(",") if admin]
 
 
 # ==============================
