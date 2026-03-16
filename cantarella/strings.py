@@ -48,6 +48,7 @@ HELP_TXT = """<b>🚀 Welcome to Anuj Save Restricted Bot - Complete Guide</b>
 <blockquote><b>/view_thumb</b> — Preview current thumbnail</blockquote>
 <blockquote><b>/del_thumb</b> — Remove custom thumbnail</blockquote>
 <blockquote><b>/thumb_mode</b> — Check thumbnail status</blockquote>
+<blockquote><b>/premium</b> — Check your premium status or grant to a user (admin only)</blockquote>
 
 <b>💡 Tips</b>
 • Free users: 100 saves/day + 5 files per batch
@@ -75,6 +76,7 @@ COMMANDS_TXT = """<b>📜 All Available Commands</b>
 <blockquote>
 /myplan — Your plan status
 /premium — Upgrade options
+/grantpremium — Grant premium to a user (admin only)
 </blockquote>
 
 <b>📤 Dump Chat</b>
