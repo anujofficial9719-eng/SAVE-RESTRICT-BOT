@@ -169,6 +169,9 @@ docker run -d --env-file .env save-restricted-bot
 - `/set_repl_word`
 - `/rem_repl_word`
 - `/setchat`
+- `/setchat`
+  `/setchat`
+- `/add_premium`
 
 </details>
 
@@ -199,7 +202,7 @@ docker run -d --env-file .env save-restricted-bot
   </a>
   &nbsp;
   <a href="https://github.com/Anujofficial9719-eng/">
-    <img src="https://img.shields.io/badge/LastPerson07-GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/anujofficial9719-eng-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
