@@ -197,6 +197,8 @@ docker run -d --env-file .env save-restricted-bot
 
 # 🤝 Contributors
 
+### 🤝 Contributors
+
 <p align="center">
   <a href="https://t.me/Anujedits76">
     <img src="https://img.shields.io/badge/Anuj%20Kumar-Telegram-blue?style=for-the-badge&logo=telegram">
@@ -219,7 +221,4 @@ docker run -d --env-file .env save-restricted-bot
   <a href="https://t.me/anujedits76">
     <img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram">
   </a>
-</p align="center">
-⭐ If this project helped you, consider starring the repository!
-  </p>
-  
+</p>
