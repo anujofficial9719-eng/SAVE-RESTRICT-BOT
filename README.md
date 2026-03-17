@@ -197,15 +197,13 @@ docker run -d --env-file .env save-restricted-bot
 
 # 🤝 Contributors
 
-### 🤝 Contributors
-
 <p align="center">
   <a href="https://t.me/Anujedits76">
-    <img src="https://img.shields.io/badge/Anuj%20Kumar-Telegram-blue?style=for-the-badge&logo=telegram">
+    <img src="https://img.shields.io/badge/Anuj%20Kumar-Telegram-blue?style=for-the-badge&logo=telegram" alt="Anuj Kumar Telegram">
   </a>
   &nbsp;
   <a href="https://github.com/Anujofficial9719-eng/">
-    <img src="https://img.shields.io/badge/anujofficial9719-eng-GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/anujofficial9719-eng-GitHub-black?style=for-the-badge&logo=github" alt="Anujofficial9719-eng GitHub">
   </a>
 </p>
 
@@ -215,10 +213,10 @@ docker run -d --env-file .env save-restricted-bot
 
 <p align="center">
   <a href="https://t.me/Anujedits76">
-    <img src="https://img.shields.io/badge/Anujofficial9719-eng-Official%20Channel-blue?style=for-the-badge&logo=telegram">
+    <img src="https://img.shields.io/badge/Anujofficial9719-eng-Official%20Channel-blue?style=for-the-badge&logo=telegram" alt="Official Channel Telegram">
   </a>
   <br><br>
   <a href="https://t.me/anujedits76">
-    <img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram">
+    <img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram" alt="Updates Channel Telegram">
   </a>
 </p>
