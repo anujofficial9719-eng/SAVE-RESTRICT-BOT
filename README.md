@@ -198,7 +198,7 @@ docker run -d --env-file .env save-restricted-bot
 # 🤝 Contributors
 
 <p align="center">
-  <a href="https://t.me/arafta_hindi_dubbed_webseries">
+  <a href="https://t.me/Anujedits76">
     <img src="https://img.shields.io/badge/Anuj kumar-Telegram-blue?style=for-the-badge&logo=telegram">
   </a>
   &nbsp;
@@ -212,11 +212,11 @@ docker run -d --env-file .env save-restricted-bot
 # 📞 Support
 
 <p align="center">
-  <a href="https://t.me/arafta_hindi_dubbed_webseries">
+  <a href="https://t.me/Anujedits76">
     <img src="https://img.shields.io/badge/Anujofficial9719-eng-Official%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
   <br><br>
-  <a href="https://t.me/arafta_hindi_dubbed_webseries">
+  <a href="https://t.me/anujedits76">
     <img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
