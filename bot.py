@@ -132,7 +132,7 @@ class Bot(Client):
             BotCommand("rem_del_word", "Remove delete word"),
             BotCommand("set_repl_word", "Add replace word"),
             BotCommand("rem_repl_word", "Remove replace word"),
-            BotCommand("grantpremium", "Grant premium to a user (admin only)"),
+            BotCommand("add_premium", "add premium to a user (admin only)"),
         ]
         await self.set_bot_commands(commands)
 
