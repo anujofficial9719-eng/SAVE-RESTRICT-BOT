@@ -20,6 +20,7 @@ import math
 from logger import LOGGER
 logger = LOGGER(__name__)
 SUBSCRIPTION = os.environ.get('SUBSCRIPTION', 'https://i.ibb.co/tpDmH31k/7168219724-28145.jpg')
+SUBSCRIPTION = os.environ.get('SUBSCRIPTION', '971916880@ybl')
 FREE_LIMIT_SIZE = 02 * 1024 * 1024 * 1024
 FREE_LIMIT_DAILY = 100
 UPI_ID = os.environ.get("UPI_ID", "971916880@ybl")
@@ -97,9 +98,9 @@ class script(object):
 <b>📝 Personalized Captions</b>
 <b>🛂 24/7 Priority Support</b></blockquote>
 <blockquote><b>💳 Pricing Options:</b></blockquote>
-• <b>1 Month Plan:</b> ₹50 / $1 (Billed Monthly)
-• <b>3 Month Plan:</b> ₹120 / $2.5 (Save 20%)
-• <b>Lifetime Access:</b> ₹200 / $4 (One-Time Payment)
+• <b>1 Month Plan:</b> ₹554 / $6 (Billed Monthly)
+• <b>3 Month Plan:</b> ₹1660 / $17.98 (Save 20%)
+• <b>Lifetime Access:</b> ₹3000 / $32.5 (One-Time Payment)
 <blockquote><b>👇 Secure Payment:</b></blockquote>
 <b>💸 UPI ID:</b> <code>{}</code>
 <b>📸 QR Code:</b> <a href='{}'>Scan to Pay</a>
