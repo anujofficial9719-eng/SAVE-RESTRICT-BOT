@@ -78,7 +78,7 @@ class script(object):
 • Priority Support & Advanced Features.
 """
     ABOUT_TXT = """<b>ℹ️ About This Bot</b>
-<blockquote><b>╭────[ 🧩 Technical Stack ]────⍟</b>
+<blockquote><b>╭────[ 🧩 Anuj Kumar ]────⍟</b>
 <b>├⍟ 🤖 Bot Name : <a href=http://t.me/ak_save_restricted_content_bot>Save Content</a></b>
 <b>├⍟ 👨‍💻 Developer : <a href=https://t.me/arafta_hindi_dubbed_webseries>Anuj</a></b>
 <b>├⍟ 📚 Library : <a href='https://docs.pyrogram.org/'>Pyrogram Async</a></b>
