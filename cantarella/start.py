@@ -20,7 +20,6 @@ import math
 from logger import LOGGER
 logger = LOGGER(__name__)
 SUBSCRIPTION = os.environ.get('SUBSCRIPTION', 'https://i.ibb.co/tpDmH31k/7168219724-28145.jpg')
-SUBSCRIPTION = os.environ.get('SUBSCRIPTION', '971916880@ybl')
 FREE_LIMIT_SIZE = 02 * 1024 * 1024 * 1024
 FREE_LIMIT_DAILY = 100
 UPI_ID = os.environ.get("UPI_ID", "971916880@ybl")
