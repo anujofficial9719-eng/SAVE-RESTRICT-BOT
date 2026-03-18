@@ -108,7 +108,8 @@ async def show_premium_plans(message_or_query):
         "</blockquote>\n\n"
         "<b>💲 Pricing:</b>\n"
         "• <b>1 Month:</b> ₹554 / $6\n"
-        "• <b>Lifetime:</b> ₹3000 / $\n\n"
+        "• <b>3 Month:</b> ₹1660 / $17.98\n"
+        "• <b>Lifetime:</b> ₹3000 / $32.5\n\n"
         "<i>Tap the button below to buy instantly.</i>"
     )
 
