@@ -64,7 +64,7 @@ async def my_plan(client: Client, message: Message):
         )
     else:
         # Free Logic
-        daily_limit = 100
+        daily_limit = 10
         tokens_left = max(0, daily_limit - daily_usage)
         
         plan_text = (
