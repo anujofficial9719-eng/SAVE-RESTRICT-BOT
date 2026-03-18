@@ -34,11 +34,11 @@ LOGO = r"""
 class Bot(Client):
     def __init__(self):
         super().__init__(
-            name="anuj_Login_Bot",
+            name="cantarella_Login_Bot",
             api_id=API_ID,
             api_hash=API_HASH,
             bot_token=BOT_TOKEN,
-            plugins=dict(root="anuj"),
+            plugins=dict(root="cantarella"),
             workers=10, 
             sleep_threshold=15,
             max_concurrent_transmissions=5,
