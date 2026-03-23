@@ -1,5 +1,5 @@
 # Developed by: Arafta × anuj
-# Telegram: @arafta_hindi_dubbed_webseries | @anujedits76
+# Telegram: @anujkumar_21 | @anujedits76
 import os
 import asyncio
 import random
