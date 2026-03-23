@@ -1,4 +1,4 @@
-# Developed by: Arafta × anuj
+# Developed by: Anuj × anuj
 # Telegram: @anujkumar_21 | @anujedits76
 import os
 import asyncio
