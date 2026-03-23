@@ -36,9 +36,9 @@ REACTIONS = [
 ]
 
 
-dev_text = "👨‍💻 Mind Behind This Bot:\n• @anujedits76\n• @arafta_hindi_dubbed_webseries"
+dev_text = "👨‍💻 Mind Behind This Bot:\n• @anujedits76\n• @anujkumar_21"
 expected_dev_hash = "b9e63b7578bdec13f3cb3162fe5f5e93dccaba3bfd5c8ddacbb90ffdcdcce402"
-channels_text = "📢 Official Channels:\n• @arafta_hindi_dubbed_webseries\n• @anujedits76\n\nStay updated for new features!"
+channels_text = "📢 Official Channels:\n• @anujedits76\n• @anujkumar_21\n\nStay updated for new features!"
 expected_channels_hash = "e19212e571bd0f6626450dd790029d392c0748c554d4b386a0c0752f4148d37d"
 
 if (
@@ -80,7 +80,7 @@ class script(object):
     ABOUT_TXT = """<b>ℹ️ About This Bot</b>
 <blockquote><b>╭────[ 🧩 Anuj Kumar ]────⍟</b>
 <b>├⍟ 🤖 Bot Name : <a href=http://t.me/ak_save_restricted_content_bot>Save Content</a></b>
-<b>├⍟ 👨‍💻 Developer : <a href=https://t.me/arafta_hindi_dubbed_webseries>Anuj</a></b>
+<b>├⍟ 👨‍💻 Developer : <a href=https://t.me/anujedits76>Anuj</a></b>
 <b>├⍟ 📚 Library : <a href='https://docs.pyrogram.org/'>Pyrogram Async</a></b>
 <b>├⍟ 🐍 Language : <a href='https://www.python.org/'>Python 3.11+</a></b>
 <b>├⍟ 🗄 Database : <a href='https://www.mongodb.com/'>MongoDB Atlas Cluster</a></b>
